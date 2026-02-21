@@ -21,6 +21,6 @@ Preview
  # How to Use
 Filter by Bank: Use the dropdown slicer at the bottom to view specific bank performance.
 
-View Insights: Ctrl + Click the (i) icon in the header to see the Executive Summary.
+View Insights:  Click the (i) icon in the header to see the Executive Summary.
 
-Exit Summary: Ctrl + Click the yellow arrow to return to the main view.
+Exit Summary: Click the yellow arrow to return to the main view.
