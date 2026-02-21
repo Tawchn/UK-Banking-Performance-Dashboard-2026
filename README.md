@@ -16,7 +16,7 @@ Power BI Desktop: Data modeling, DAX measures (Averages), and UI/UX design.
 Data Source: Ipsos Personal Banking Service Quality Survey (Feb 2026).
 
 Preview
-(Note: Replace 'https://www.google.com/search?q=FINAL.png' with the actual filename of your screenshot in your repo)
+![UK Banking Dashboard Overview](overview_banks.png)
 
  # How to Use
 Filter by Bank: Use the dropdown slicer at the bottom to view specific bank performance.
